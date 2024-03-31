@@ -10,6 +10,3 @@ Currently working on an Alien Invasion Shooter game through Python
 - Amount of Ships given is three until game over.
 - Game Start either by pressing "Play Button" or "press P to play".
 
-## To-do
-- Two player mode
-
