@@ -2,7 +2,7 @@
 Currently working on an Alien Invasion Shooter game through Python
 
 ## Gameplay
-- Shooting down aliens from Spaceship, if aliens reach bottom game over.
+- Shooting down aliens from Spaceship, if aliens reach bottom game over. 👾
 
 ## Features
 - Difficulty increases as you go.
