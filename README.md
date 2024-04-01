@@ -3,6 +3,7 @@ Currently working on an Alien Invasion Shooter game through Python
 
 ## Gameplay 👾
 - Shooting down aliens from Spaceship, if aliens reach bottom or touch ship game over
+- Download the files and run through Pygame to play. 
 
 ## Features 🎮
 - Difficulty increases as you go up the Level.
