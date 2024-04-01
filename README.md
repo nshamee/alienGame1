@@ -1,6 +1,8 @@
 # Alien Invasion 🛸
 Currently working on an Alien Invasion Shooter game through Python
 
+![screenshot](gameplay.png)
+
 ## Gameplay 👾
 - Shooting down aliens from Spaceship, if aliens reach bottom or touch ship game over
 - Download the files and run through Pygame to play. 
@@ -10,4 +12,6 @@ Currently working on an Alien Invasion Shooter game through Python
 - Score is measured at the top, as well as high score.
 - Amount of Ships (Lives) given is three until game over.
 - Game Start either by pressing "Play Button" or "press P to play".
+
+
 
